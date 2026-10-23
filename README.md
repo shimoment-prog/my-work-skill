@@ -7,7 +7,7 @@
 | Skill | 说明 |
 |-------|------|
 | [joinquant-strategy](joinquant-strategy/SKILL.md) | 根据自然语言投资逻辑，查阅聚宽 API，生成 JoinQuant 策略脚本 |
-| [cypc-daily-brief](cypc-daily-brief/SKILL.md) | 按固定六段模版产出长江电力（600900）日报 |
+| [cypc-daily-brief](cypc-daily-brief/SKILL.md) | 按固定七段模版产出长江电力（600900）日报 |
 | [wuliangye-daily-brief](wuliangye-daily-brief/SKILL.md) | 按固定五段模版产出五粮液（000858）日报 |
 | [btc-daily-brief](btc-daily-brief/SKILL.md) | 按固定四层模版产出比特币日度简报 |
-| [stock-daily-brief](stock-daily-brief/SKILL.md) | 按固定四段模版产出个股日报：估值高低、情景与股价带、今年各季归母和全年总和、影响因素 |
+| [stock-daily-brief](stock-daily-brief/SKILL.md) | 按固定五段模版产出个股日报：估值高低、情景与股价带、今年各季归母和全年总和、影响因素、近期政策公告与风险 |
