@@ -1,0 +1,23 @@
+{
+  "meta": {
+    "strategy_name": "SMA 5/20交叉示例",
+    "market": "Binance USD-M perpetual linear simulation",
+    "symbol": "BTCUSDT",
+    "currency": "USDT",
+    "interval": "5m",
+    "timezone": "Asia/Shanghai",
+    "start_time": "2026-11-10T00:00:00+08:00",
+    "end_time": "2026-11-16T00:00:00+08:00",
+    "initial_capital": 20000,
+    "sizing": {
+      "mode": "fixed_notional",
+      "value": 800,
+      "leverage": 2,
+      "description": "每笔目标名义仓位800 USDT，2倍杠杆，计划保证金400 USDT；固定名义金额不复利。"
+    },
+    "source_description": "用户为本次运行提供的OHLCV CSV；另行核验来源。"
+  },
+  "strategy": {"fast": 5, "slow": 20},
+  "fee_percent": 0.05,
+  "quantity_step": 0.001
+}

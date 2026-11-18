@@ -1,0 +1,43 @@
+{
+  "strategy_name": null,
+  "strategy_rules": {
+    "indicators": [],
+    "long_entry": null,
+    "short_entry": null,
+    "signal_confirmation": null,
+    "entry_execution": null,
+    "exit": null,
+    "stop_loss": null,
+    "take_profit": null,
+    "position_management": null
+  },
+  "market": null,
+  "exchange": null,
+  "symbol": null,
+  "currency": null,
+  "interval": null,
+  "start": null,
+  "end": null,
+  "timezone": null,
+  "initial_capital": null,
+  "sizing": {
+    "mode": null,
+    "value": null,
+    "leverage": null,
+    "description": null,
+    "compound": null
+  },
+  "costs": {
+    "fee_model": null,
+    "slippage_model": null,
+    "funding_model": null,
+    "other_costs": []
+  },
+  "data": {
+    "provider": null,
+    "price_basis": null,
+    "price_step": null,
+    "quantity_step": null,
+    "contract_multiplier": null
+  }
+}
